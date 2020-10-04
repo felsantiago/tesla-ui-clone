@@ -4,6 +4,7 @@
 
 <h2 align="center">
    🚀 UI Clone: Página Inicial Tesla 🚀
+   Projeto afins de estudo!
 </h2>
 
 ## :mailbox_with_mail: Get in touch!
